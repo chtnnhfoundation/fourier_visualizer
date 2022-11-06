@@ -1,4 +1,4 @@
-# Fourier Tranform Visualizer
+# Fourier Transform Visualizer
 
 ## About
 
